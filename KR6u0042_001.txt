@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:46.335082
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:03
 #+TITLE: 三萬佛同根本神祕之印並法龍種上尊王佛法
 #+PROPERTY: CBETA_ID T85n2906
 #+PROPERTY: ID KR6u0042
